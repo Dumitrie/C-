@@ -1,0 +1,7 @@
+D:\C#_Learn\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe.config
+D:\C#_Learn\ChessBoard\ChessBoard\bin\Debug\ChessBoard.exe
+D:\C#_Learn\ChessBoard\ChessBoard\bin\Debug\ChessBoard.pdb
+D:\C#_Learn\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csprojAssemblyReference.cache
+D:\C#_Learn\ChessBoard\ChessBoard\obj\Debug\ChessBoard.csproj.CoreCompileInputs.cache
+D:\C#_Learn\ChessBoard\ChessBoard\obj\Debug\ChessBoard.exe
+D:\C#_Learn\ChessBoard\ChessBoard\obj\Debug\ChessBoard.pdb

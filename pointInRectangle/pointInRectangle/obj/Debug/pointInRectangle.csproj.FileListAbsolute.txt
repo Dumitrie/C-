@@ -1,0 +1,7 @@
+D:\C#_Learn\pointInRectangle\pointInRectangle\obj\Debug\pointInRectangle.csprojAssemblyReference.cache
+D:\C#_Learn\pointInRectangle\pointInRectangle\obj\Debug\pointInRectangle.csproj.CoreCompileInputs.cache
+D:\C#_Learn\pointInRectangle\pointInRectangle\bin\Debug\pointInRectangle.exe.config
+D:\C#_Learn\pointInRectangle\pointInRectangle\bin\Debug\pointInRectangle.exe
+D:\C#_Learn\pointInRectangle\pointInRectangle\bin\Debug\pointInRectangle.pdb
+D:\C#_Learn\pointInRectangle\pointInRectangle\obj\Debug\pointInRectangle.exe
+D:\C#_Learn\pointInRectangle\pointInRectangle\obj\Debug\pointInRectangle.pdb
